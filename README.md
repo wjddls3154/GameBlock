@@ -1,4 +1,5 @@
 # Block Break Game 
+- 블로그에 내용 정리 : https://blog.naver.com/wjddls3154/222655445694
 ## * 메인화면
 ![1](https://user-images.githubusercontent.com/37132897/155241785-91b77c2d-b58a-4f95-9a61-d401a62b0810.PNG)
 
